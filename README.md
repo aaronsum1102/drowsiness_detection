@@ -1,5 +1,5 @@
-# drowsiness_detection
-Simple drowsiness detection using Dlib and OpenCV
+# Dependencies
+Simple drowsiness detection using Dlib and OpenCV.
 
 The program depends on the following libraries:
 1. Dlib
